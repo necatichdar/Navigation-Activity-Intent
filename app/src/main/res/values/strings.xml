@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationDers1</string>
+    <string name="merhabalar">Merhabalar,</string>
+    <string name="button">Button</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="merhaba">Merhaba,</string>
+    <string name="android_12_bootcamp_kat_l_mc_lar">Android 12 Bootcamp Katılımcıları</string>
+    <string name="devam">Devam</string>
+    <string name="neler_ogrendik">Neler Öğrendik?</string>
+    <string name="kotlin_temelleri">Kotlin Temelleri</string>
+    <string name="layouts">Layouts</string>
+    <string name="navigation">Navigation</string>
+    <string name="navigation_component">Navigation Component</string>
+    <string name="fragments">Fragments</string>
+    <string name="life_cycle">Life Cycle</string>
+    <string name="n_m_zdeki_derste">Önümüzdeki Derste</string>
+    <string name="basa_don">Başa Dön</string>
+</resources>
